@@ -1,0 +1,22 @@
+
+{
+    "name": 		"banckle/helpdesk-sdk-php",
+	"description": 	"This repository contains Banckle.Helpdesk SDK for PHP source code. This SDK allows you to work with Banckle.Helpdesk REST API in your PHP applications quickly and easily.",
+    "type": 		"library",
+    "keywords" : 	["banckle", "php", "Helpdesk"],
+	"homepage": 	"https://github.com/BanckleMarketplace/Banckle.Helpdesk-SDK-For-PHP",
+	"authors": [
+        {
+            "name": 	"Masood Anwer",
+            "email": 	"masood.anwer@aspose.com"
+        }
+    ],
+    "require": {
+        "php": 		">=5.3.2"
+    },
+    "autoload": {
+        "psr-0": {
+			"Banckle\\Helpdesk\\": "src/"
+		}
+    }
+}
